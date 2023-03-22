@@ -8,5 +8,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Todolist" />
+    <orderEntry type="module" module-name="it-incubator1" />
   </component>
 </module>

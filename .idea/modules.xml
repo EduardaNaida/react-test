@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Todolist/.idea/Todolist.iml" filepath="$PROJECT_DIR$/../Todolist/.idea/Todolist.iml" />
+      <module fileurl="file://$USER_HOME$/it-incubator1/.idea/it-incubator1.iml" filepath="$USER_HOME$/it-incubator1/.idea/it-incubator1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/react-test.iml" filepath="$PROJECT_DIR$/.idea/react-test.iml" />
     </modules>
   </component>
